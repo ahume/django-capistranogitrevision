@@ -5,4 +5,4 @@ by Andy Hume - http://andyhume.net
 
 Simple context processor that grabs the content of REVISION in the project directory and makes it available in template context.
 
-Requires a site setting of SITE_ROOT in your settings.py
+Requires a site setting of SITE_ROOT in your settings.py.
